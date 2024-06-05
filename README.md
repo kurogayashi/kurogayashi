@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<a href="https://vk.com/hottannishiteshuen">
+  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
+</a>
+
 <!--
 **kurogayashi/kurogayashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
